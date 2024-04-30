@@ -1,0 +1,39 @@
+package main
+
+import (
+	"fmt"
+)
+
+var num7 int
+
+func main() {
+	
+	var num1 int =6
+	 var num2 int =num1
+	var suma int;
+	 var xd string ="dsdsasd";
+	var hola string = xd
+	
+	// Sumar los dos números
+	suma = num1 +-3;
+
+	if sumar2() {
+		
+	};
+	
+	resultado = sumar(3,5, 5==5, sumar2())
+    fmt.Println("El resultado de la suma es:", resultado)
+	// Mostrar el resultado
+	fmt.Println("La suma de \"hola \" ", num1, "y", num2, "es:", suma,xd)
+};
+func sumar(a int, b int, xd bool, xdd bool) bool {
+    return fal
+}
+
+func sumar2() bool {
+    return false
+};
+func sum(){
+
+}
+var xd int =7;
